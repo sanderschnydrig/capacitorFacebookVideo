@@ -19,11 +19,13 @@
     "@angular/platform-browser": "~11.2.10",
     "@angular/platform-browser-dynamic": "~11.2.10",
     "@angular/router": "~11.2.10",
+    "@capacitor/android": "^3.0.0",
     "@capacitor/angular": "^1.0.3",
+    "@capacitor/core": "latest",
+    "@capacitor/ios": "^3.0.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
-    "zone.js": "~0.11.3",
-    "@capacitor/core": "latest"
+    "zone.js": "~0.11.3"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1102.9",
