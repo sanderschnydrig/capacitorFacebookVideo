@@ -1,1 +1,6 @@
-{}
+{
+	"appId": "com.example.app",
+	"appName": "capfbvideo",
+	"webDir": "dist/capfbvideo",
+	"bundledWebRuntime": false
+}

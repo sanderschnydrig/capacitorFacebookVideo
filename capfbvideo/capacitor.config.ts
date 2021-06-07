@@ -3,7 +3,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 const config: CapacitorConfig = {
   appId: 'com.example.app',
   appName: 'capfbvideo',
-  webDir: 'dist',
+  webDir: 'dist/capfbvideo',
   bundledWebRuntime: false
 };
 
